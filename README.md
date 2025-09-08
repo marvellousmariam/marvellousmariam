@@ -1,10 +1,8 @@
 - 👋 Hi, I’m Adewunmi Mariam
-- 👀 I’m interested in Web Application,Penetration,Testing and Incident Response
-- 🌱 I’m currently learning Python and Penetration Testing
-- 💞️ I’m looking to collaborate on any project with you
-- 📫 How to reach me marvellousmariam2006@gmail.com and on telegram and whatsapp:234-08-8862-3494
-- 😄 Pronouns: Miss,marvellousmariam
-- ⚡ Fun fact: Python was not named after a snake.
+- 👀 I’m a Software Engineering 
+- 🌱 I’m currently using Java and Spring boot
+- 📫 How to reach me marvellousmariam2006@gmail.com and on telegram and whatsapp:2348022171881
+- 😄 Pronouns: Miss
 
 <!---
 marvellousmariam/marvellousmariam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
